@@ -70,6 +70,8 @@ These were validated using scatter plots, bar charts, pie charts, and KPI compar
 - Bias could exist in sampling (used cars from a specific market), and results are interpreted with this in mind.
 
 ## Dashboard Design
+We used PowerBI to build a dashboard. To review the dashboard, please download the .pbix file from the [# dashboard] folder and open it locally on your system.
+
 **Main Dashboard Features:**
 - KPI Cards (Avg price, Avg horsepower, Avg citympg, Avg highwaympg)
 - Column Chart: Average Price by Brand
